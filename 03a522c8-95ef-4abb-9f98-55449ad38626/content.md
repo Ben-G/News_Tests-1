@@ -8,3 +8,5 @@ cover_photo_path:
 
 ---
 Valid Content Text
+
+** highlight **
